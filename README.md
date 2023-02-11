@@ -1,6 +1,7 @@
-### My recent works
-# COVID19 data from Israel
+## My recent works
+### COVID19 data from Israel
 [covid-israel-matlab](https://github.com/yuval-harpaz/covid-19-israel-matlab/): Data collected from Israel Ministry of Health's [dashboard](https://datadashboard.health.gov.il/COVID-19/general?utm_source=go.gov.il&utm_medium=referral)
+![alt text](https://github.com/yuval-harpaz/covid-israel-matlab/blob/master/docs/by_vacc.png?raw=true)
 <!--
 **yuval-harpaz/yuval-harpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
