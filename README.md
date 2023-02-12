@@ -4,13 +4,15 @@
 The data is updated daily at 14:00 UTC. COVID-19 cases and deaths by vaccination status are displayed [here](https://yuval-harpaz.github.io/covid-19-israel-matlab/by_vacc.html).<br>
 ![covid19 by vaccunation status](https://github.com/yuval-harpaz/covid-19-israel-matlab/raw/master/docs/by_vacc.png?raw=true)![health links](https://github.com/yuval-harpaz/covid-19-israel-matlab/raw/master/docs/links.png?raw=true)
 <br>
+### JWST images
+[astro](https://github.com/yuval-harpaz/astro): Data from JWST is analyzed manually and with python code to create RGB images. See my [wallpaper gallery](https://github.com/yuval-harpaz/astro/blob/main/pics/wallpaper/wallpapers.md).
+![NGC 3627 thumbnail](https://github.com/yuval-harpaz/astro/raw/main/pics/wallpaper/thumb/ngc3627.png?raw=true)
+<br>
 See useful COVID / health related links [here](https://yuval-harpaz.github.io/covid-19-israel-matlab/links.html)<br>
 ### Earthquakes measured in Israel
 [alarms](https://github.com/yuval-harpaz/alarms): Earthquakes data from the Geolocical Survey of Israel is displayed on a [map](https://yuval-harpaz.github.io/alarms/earthquakes_by_time.html), by time of occurence.<br>
 ![covid19 by vaccunation status](https://github.com/yuval-harpaz/alarms/raw/master/docs/thumb.png?raw=true)
-### JWST images
-[astro](https://github.com/yuval-harpaz/astro): Data from JWST is analyzed manually and with python code to create RGB images. See my [wallpaper gallery](https://github.com/yuval-harpaz/astro/blob/main/pics/wallpaper/wallpapers.md).
-![NGC 3627 thumbnail](https://github.com/yuval-harpaz/astro/raw/main/pics/wallpaper/thumb/ngc3627.png?raw=true)
+
 
 <!--
 **yuval-harpaz/yuval-harpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
