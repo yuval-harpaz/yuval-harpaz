@@ -15,7 +15,7 @@ See useful COVID / health related links [here](https://yuval-harpaz.github.io/co
 ![covid19 by vaccunation status](https://github.com/yuval-harpaz/alarms/raw/master/docs/thumb.png?raw=true)
 
 ### Rockets alarms in Israel
-Another [map](https://yuval-harpaz.github.io/alarms/alarms_by_year.html) on alarms repo, displaying alarms by year since 2019
+Another [map](https://yuval-harpaz.github.io/alarms/alarms_by_year.html) on alarms repo, displaying alarms by year since 2019<br>
 ![image](https://user-images.githubusercontent.com/445416/221681172-71884293-b03c-4412-88fa-9bda2c895329.png)
 
 <!--
