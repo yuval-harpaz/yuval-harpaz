@@ -14,6 +14,9 @@ See useful COVID / health related links [here](https://yuval-harpaz.github.io/co
 [alarms](https://github.com/yuval-harpaz/alarms): Earthquakes data from the Geolocical Survey of Israel is displayed on a [map](https://yuval-harpaz.github.io/alarms/earthquakes_by_time.html), by time of occurence.<br>
 ![covid19 by vaccunation status](https://github.com/yuval-harpaz/alarms/raw/master/docs/thumb.png?raw=true)
 
+### Rockets alarms in Israel
+Another [map](https://yuval-harpaz.github.io/alarms/alarms_by_year.html) on alarms repo, displaying alarms by year since 2019
+![image](https://user-images.githubusercontent.com/445416/221681172-71884293-b03c-4412-88fa-9bda2c895329.png)
 
 <!--
 **yuval-harpaz/yuval-harpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
