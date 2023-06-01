@@ -1,10 +1,8 @@
 ## My recent works
 ### JWST images
 [astro](https://github.com/yuval-harpaz/astro): Data from JWST is analyzed manually and with python code to create RGB images. See my [wallpaper gallery](https://github.com/yuval-harpaz/astro/blob/main/pics/wallpaper/wallpapers.md).
-![NGC 3627](https://github.com/yuval-harpaz/astro/raw/main/pics/wallpaper/thumb/ngc3627.png?raw=true)
+![NGC 3627](https://github.com/yuval-harpaz/astro/raw/main/pics/wallpaper/thumb/ngc3627.png?raw=true)![JWST preview](https://github.com/yuval-harpaz/astro/raw/main/docs/preview.png?raw=true)<br>
 [JWST lates](https://yuval-harpaz.github.io/astro/news_by_date.html): A preview of the latest releases.
-![JWST preview](https://github.com/yuval-harpaz/astro/raw/main/docs/preview.png?raw=true)
-<br>
 
 ### Earthquakes measured in Israel
 [alarms](https://github.com/yuval-harpaz/alarms): Earthquakes data from the Geolocical Survey of Israel is displayed on a [map](https://yuval-harpaz.github.io/alarms/earthquakes_by_time.html), by time of occurence.<br>
