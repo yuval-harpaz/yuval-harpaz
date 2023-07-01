@@ -1,6 +1,6 @@
 ## My recent works
 ### JWST images
-[astro](https://github.com/yuval-harpaz/astro](https://github.com/yuval-harpaz/astro/blob/main/README.md): Data from JWST is analyzed manually and with python code to create RGB images. See my [wallpaper gallery](https://github.com/yuval-harpaz/astro/blob/main/pics/wallpaper/wallpapers.md).
+[astro](https://github.com/yuval-harpaz/astro/blob/main/README.md): Data from JWST is analyzed manually and with python code to create RGB images. See my [wallpaper gallery](https://github.com/yuval-harpaz/astro/blob/main/pics/wallpaper/wallpapers.md).
 ![NGC 3627](https://github.com/yuval-harpaz/astro/raw/main/pics/wallpaper/thumb/ngc3627.png?raw=true)![JWST preview](https://github.com/yuval-harpaz/astro/raw/main/docs/preview.png?raw=true)<br>
 [JWST latest](https://yuval-harpaz.github.io/astro/news_by_date.html): A preview of the latest releases.
 
